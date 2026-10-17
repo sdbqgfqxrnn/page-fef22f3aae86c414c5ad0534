@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "6e1abddd3c687e47edec32af",
+  "owner": "sdbqgfqxrnn",
+  "repo": "page-fef22f3aae86c414c5ad0534",
+  "title": "pp",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fef22f3aae86c414c5ad0534",
+      "a": "pp",
+      "b": "",
+      "entity": "pp",
+      "brand": "pp",
+      "separator": "",
+      "path": "index.html",
+      "hash": "db18e5ca029269795b59a87b43707dc1e203392784c0d263b6982bbf9342a2d8",
+      "content": {
+        "keyword1": "pp",
+        "keyword2": "",
+        "primary_entity": "pp",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "pp 不急于卖给你什么。它先讲清楚每月流量怎么算、几台设备能同时在线、节点池与专线之间的差别，再让你决定从哪一档开始。",
+          "AI_DESCRIPTION": "pp 不急于卖给你什么。它先讲清楚每月流量怎么算、几台设备能同时在线、节点池与专线之间的差别，再让你决定从哪一档开始。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{background:#0a0a0a;color:#e8e8e8;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Microsoft YaHei\",sans-serif;line-height:1.8;font-size:16px}\na{color:#ccff00;text-decoration:none;transition:opacity .2s}\na:hover{opacity:.7}\nmain{max-width:960px;margin:0 auto;padding:0 24px}\n.breadcrumb{padding:12px 24px;font-size:13px;color:#888;border-bottom:1px solid #1a1a1a;background:#000;position:sticky;top:0;z-index:10}\n.breadcrumb a{color:#888}\n.breadcrumb a:hover{color:#ccff00}\n.toc{display:inline-flex;gap:16px;flex-wrap:wrap;margin-left:12px}\n.toc a{font-size:12px}\n.hero{padding:96px 0 64px;max-width:760px;margin:0 auto}\n.hero .eyebrow{color:#ccff00;font-size:12px;letter-spacing:.15em;text-transform:uppercase;margin-bottom:32px}\n.hero h1{font-size:32px;font-weight:600;line-height:1.4;margin-bottom:40px;letter-spacing:-.01em}\n.hero p{font-size:17px;color:#bbb;margin-bottom:24px;text-align:justify}\n.hero p:first-letter{color:#ccff00;font-size:48px;float:left;line-height:1;padding:4px 12px 0 0;font-weight:700}\nsection{padding:64px 0;border-top:1px solid #1a1a1a}\nsection h2{font-size:24px;font-weight:600;margin-bottom:32px;color:#fff;letter-spacing:-.01em}\n.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:32px}\n.card{position:relative;padding:48px 28px 28px;min-height:200px;display:flex;flex-direction:column;justify-content:flex-end}\n.card .num{position:absolute;top:12px;left:20px;font-size:88px;font-weight:800;color:#1a1a1a;line-height:1;z-index:0;letter-spacing:-.04em}\n.card .content{position:relative;z-index:1}\n.card h3{font-size:16px;font-weight:600;color:#ccff00;margin-bottom:12px}\n.card p{font-size:14px;color:#999}\n.plans-table{width:100%;border-collapse:collapse;font-size:14px;overflow-x:auto;display:block}\n.plans-table th,.plans-table td{padding:16px 12px;text-align:left;border-bottom:1px solid #1a1a1a;vertical-align:top;min-width:140px}\n.plans-table th{color:#888;font-weight:500;font-size:12px;text-transform:uppercase;letter-spacing:.08em}\n.plans-table th.featured{color:#ccff00}\n.plans-table td{color:#bbb}\n.plans-table td.price{color:#fff;font-weight:600;font-size:16px}\n.plans-table td.featured{background:rgba(204,255,0,.04)}\n.plans-table td ul{list-style:none;padding:0}\n.plans-table td ul li{padding:4px 0;font-size:13px;color:#999}\n.annual-note{font-size:13px;color:#666;margin-top:8px}\n.usage{max-width:680px}\n.usage ol{list-style:none;counter-reset:step;padding:0}\n.usage ol li{counter-increment:step;padding:24px 0;border-bottom:1px solid #1a1a1a;display:flex;gap:24px;align-items:flex-start}\n.usage ol li::before{content:counter(step,decimal-leading-zero);color:#ccff00;font-weight:700;font-size:14px;min-width:32px;padding-top:2px}\n.usage ol li .step-content h3{font-size:15px;color:#fff;margin-bottom:6px;font-weight:600}\n.usage ol li .step-content p{font-size:14px;color:#999}\n.faq{display:grid;grid-template-columns:repeat(2,1fr);gap:32px 48px}\n.faq .item h3{font-size:14px;color:#ccff00;margin-bottom:8px;font-weight:600}\n.faq .item p{font-size:14px;color:#999}\n.footer{text-align:center;padding:48px 0;font-size:13px;color:#444;border-top:1px solid #1a1a1a}\n@media (max-width:600px){\n.hero{padding:48px 0 32px}\n.hero h1{font-size:24px}\n.faq{grid-template-columns:1fr}\n.cards{grid-template-columns:1fr}\n.toc{display:none}\n}\n</style><nav class=\"breadcrumb\">\n<a href=\"#\">首页</a> / <span>pp</span>\n<span class=\"toc\">\n<a href=\"#understand\">理解</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#usage\">使用</a>\n<a href=\"#faq\">问答</a>\n</span>\n</nav>\n<main>\n<header class=\"hero\">\n<div class=\"eyebrow\">pp · 一条线路的叙述</div>\n<h1>pp 不急着卖给你什么，它先把话说清楚。</h1>\n<p>很多服务一上来就讲自己有多快、覆盖多少国家、解锁多少平台。pp 觉得这些数字在没有上下文时没有意义。一条线路到底是共享还是专线，每月流量是软上限还是硬切断，几台设备同时在线会不会互相挤带宽——这些才是决定你每天用得顺不顺的细节。</p>\n<p>所以这一页不是产品落地页，更像是一篇专栏。先讲清楚 pp 怎么理解\"一条好线路\"，再列出三档套餐各自给了什么，最后回答几个常见问题。读完了再决定要不要开始，完全来得及。</p>\n<p>如果你只关心价格，可以直接跳到下方对比表。如果想知道为什么基础版只给普通节点池、旗舰版多了 IPLC 游戏优化，那就从这一段往下读。</p>\n</header>\n<section id=\"understand\">\n<h2>pp 看重什么</h2>\n<div class=\"cards\">\n<article class=\"card\">\n<span class=\"num\">01</span>\n<div class=\"content\">\n<h3>流量是真实额度</h3>\n<p>100GB 就是 100GB，不是\"不限速但有限额\"的模糊说法。用完会提示续费或升级，不会悄悄降速。</p>\n</div>\n</article>\n<article class=\"card\">\n<span class=\"num\">02</span>\n<div class=\"content\">\n<h3>设备数按同时在线算</h3>\n<p>3 台意味着你可以手机、平板、电脑都装着客户端，只要同时连着的不超过 3 台就行。换设备不需要先退出。</p>\n</div>\n</article>\n<article class=\"card\">\n<span class=\"num\">03</span>\n<div class=\"content\">\n<h3>节点池有层级</h3>\n<p>基础版用普通线路池，旗舰版以上才有 IPLC 专线和 VIP 高带宽节点。不是所有套餐都共享同一组线路。</p>\n</div>\n</article>\n<article class=\"card\">\n<span class=\"num\">04</span>\n<div class=\"content\">\n<h3>流媒体分档解锁</h3>\n<p>基础版只解锁基础流媒体，旗舰版及以上才是全节点原生解锁。团队版的路由甚至可以按企业需求定制。</p>\n</div>\n</article>\n</div>\n</section>\n<section id=\"plans\">\n<h2>三档套餐，横向对比</h2>\n<table class=\"plans-table\">\n<thead>\n<tr>\n<th>对比项</th>\n<th>基础版</th>\n<th class=\"featured\">旗舰版</th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"price\">月费</td>\n<td>¥15/月</td>\n<td class=\"featured\">¥35/月</td>\n<td>¥85/月</td>\n</tr>\n<tr>\n<td>按年付</td>\n<td>¥150/年</td>\n<td class=\"featured\">¥350/年</td>\n<td>¥850/年</td>\n</tr>\n<tr>\n<td>每月流量</td>\n<td>100GB</td>\n<td class=\"featured\">300GB</td>\n<td>1000GB</td>\n</tr>\n<tr>\n<td>同时在线设备</td>\n<td>3 台</td>\n<td class=\"featured\">5 台</td>\n<td>20 台</td>\n</tr>\n<tr>\n<td>节点池</td>\n<td>普通线路节点池</td>\n<td class=\"featured\">IPLC 专线 + 游戏加速优化</td>\n<td>VIP 专属高带宽节点</td>\n</tr>\n<tr>\n<td>流媒体解锁</td>\n<td>基础流媒体</td>\n<td class=\"featured\">全节点原生解锁</td>\n<td>全节点原生解锁</td>\n</tr>\n<tr>\n<td>路由定制</td>\n<td>—</td>\n<td class=\"featured\">—</td>\n<td>支持企业定制路由</td>\n</tr>\n<tr>\n<td>客服支持</td>\n<td>常规工单</td>\n<td class=\"featured\">7×24 优先工单</td>\n<td>专属客户经理</td>\n</tr>\n</tbody>\n</table>\n<p class=\"annual-note\">年付价格为一次性付清的折后总额，不自动续费，到期后可自行选择续月付或续年付。</p>\n</section>\n<section id=\"usage\">\n<h2>怎么开始用</h2>\n<div class=\"usage\">\n<ol>\n<li>\n<div class=\"step-content\">\n<h3>选一档套餐</h3>\n<p>如果你是个人日常使用，基础版通常够。常看流媒体或玩游戏，旗舰版的 IPLC 专线会更稳。团队共享选团队版。</p>\n</div>\n</li>\n<li>\n<div class=\"step-content\">\n<h3>完成付款拿到订阅</h3>\n<p>付款后你会收到一串订阅链接，不是下载一个安装包。这个链接是后续所有客户端导入的入口。</p>\n</div>\n</li>\n<li>\n<div class=\"step-content\">\n<h3>在客户端里导入</h3>\n<p>把你常用的客户端打开，找到\"导入订阅\"或\"添加订阅链接\"的位置，粘贴刚才那串链接，节点列表会自动拉取。</p>\n</div>\n</li>\n<li>\n<div class=\"step-content\">\n<h3>选节点连上去</h3>\n<p>节点列表会按地区分组。选一个延迟低的连上就行。不确定选哪个，先用自动选择试一轮，再手动锁定表现最好的。</p>\n</div>\n</li>\n<li>\n<div class=\"step-content\">\n<h3>有问题查问答或开工单</h3>\n<p>连不上、速度慢、某个平台没解锁，先看下方问答。没覆盖到的问题，旗舰版及以上有优先工单通道，团队版直接找客户经理。</p>\n</div>\n</li>\n</ol>\n</div>\n</section>\n<section id=\"faq\">\n<h2>问答</h2>\n<div class=\"faq\">\n<article class=\"item\">\n<h3>基础版和旗舰版的节点池具体差在哪？</h3>\n<p>基础版用的是普通线路节点池，可以理解为共享带宽的常规线路。旗舰版在这个基础上多了 IPLC 专线节点，走的是点对点专线，不经过公网中转，延迟和抖动都更小，对游戏和实时通话更友好。</p>\n</article>\n<article class=\"item\">\n<h3>每月流量用完了会怎么样？</h3>\n<p>不会自动扣费，也不会偷偷限速到无法使用。流量用尽后连接会断开，页面提示你续费或升级套餐。你可以补流量包，也可以直接升级到更高档，升级后立刻生效。</p>\n</article>\n<article class=\"item\">\n<h3>3 台设备同时在线是硬限制吗？</h3>\n<p>是软限制。偶尔超出一点不会立刻踢掉旧设备，但如果长时间多台同时连，系统会按最后连接时间踢掉最早的。换设备使用不需要手动退出，直接在新设备上连就行。</p>\n</article>\n<article class=\"item\">\n<h3>旗舰版说\"全节点原生流媒体解锁\"是什么意思？</h3>\n<p>意思是所有节点都原生支持主流流媒体平台解锁，不需要额外配置或换特定节点。基础版只解锁部分基础流媒体，部分平台可能需要手动切换到支持的节点。</p>\n</article>\n<article class=\"item\">\n<h3>团队版的企业定制路由怎么理解？</h3>\n<p>团队版支持按企业需求配置出口路由，比如指定某个地区的业务流量走固定节点、内网穿透策略、多出口负载分配。这部分需要和客户经理沟通具体方案，不是自助开通的。</p>\n</article>\n<article class=\"item\">\n<h3>年付到期后会自动续费吗？</h3>\n<p>不会。pp 不开自动续费。年付到期后账号会进入暂停状态，你可以选择续月付、续年付，或者什么都不做。数据保留 30 天，超过后清除。</p>\n</article>\n</div>\n</section>\n</main>\n<footer class=\"footer\">\n<p>pp · 一条线路的叙述</p>\n</footer>",
+          "hash": "452e80eb1d3f522075fb26dae9a222ef15fa544d8efe6f9b1f568ea3ec26a31d",
+          "seo": {
+            "title": "pp — 关于一条线路的叙述",
+            "keywords": "pp,线路,流量,套餐,设备,节点,问答",
+            "description": "pp 不急于卖给你什么。它先讲清楚每月流量怎么算、几台设备能同时在线、节点池与专线之间的差别，再让你决定从哪一档开始。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "4300",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tdhiuc.cn",
+    "host": "p-6d5b8fc1e2.tdhiuc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "54b2fc7b59323ae464918328a6c58ef16cbd32136b31900814a222f995c2ecd3",
+    "sitemap.xml": "0c05b9bdcfbf8faabbe2fd9df6574f2142d2c5c4c33c1b04ab30f39dd4b59be5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "245b576d7c0ec9f70ae4514c56ebec279ac8a41ab3f656e4676a3e9380fe9a13",
+    "robots.txt": "0c73c92ffe0b258c543831170f5a70fccddec50cc5834a37b8ed5fd9f1bb85c9",
+    "c83dbd1ceaf7f2882a58be18f8d4b76d.txt": "4ba093175f837dfb4e3af4e73450dbba05ae548b6c24fae26b930d03518cd91f"
+  },
+  "revision": "022f41e0af94500c4763cc4daab0b1a8df6fc13a75a87a17b5e49a14ef82e3be"
+}
